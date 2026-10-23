@@ -1,0 +1,50 @@
+{
+  "logo": {
+    "src": "/assets/liftco/44f64b5e-Logo-Liftco-Indo-Perkasa.png",
+    "width": 390,
+    "height": 76,
+    "source": "https://liftcoindoperkasa.co.id/wp-content/uploads/2021/01/Logo-Liftco-Indo-Perkasa.png"
+  },
+  "heroForklift": {
+    "src": "/assets/liftco/5ba81326-banner-web-1920-2.jpg",
+    "width": 1240,
+    "height": 454,
+    "source": "https://liftcoindoperkasa.co.id/wp-content/uploads/2024/08/banner-web-1920-2.jpg"
+  },
+  "heroBoom": {
+    "src": "/assets/liftco/6d007c9e-mantall-boomlift.jpg",
+    "width": 700,
+    "height": 395,
+    "source": "https://liftcoindoperkasa.co.id/wp-content/uploads/2021/01/mantall-boomlift.jpg"
+  },
+  "service": {
+    "src": "/assets/liftco/768702e7-024bfec548ed4ec19037d4dafb7254a7.jpg",
+    "width": 1920,
+    "height": 551,
+    "source": "https://liftcoindoperkasa.co.id/wp-content/uploads/2024/10/024bfec548ed4ec19037d4dafb7254a7.jpg"
+  },
+  "rental": {
+    "src": "/assets/liftco/29c8ad45-rental-scissor-lift.jpg",
+    "width": 512,
+    "height": 230,
+    "source": "https://liftcoindoperkasa.co.id/wp-content/uploads/2024/04/rental-scissor-lift.jpg"
+  },
+  "heli": {
+    "src": "/assets/brands/1e25d32c-HELI-BRAND.png",
+    "width": 370,
+    "height": 140,
+    "source": "https://liftcoindoperkasa.co.id/wp-content/uploads/2024/02/HELI-BRAND.png"
+  },
+  "mantall": {
+    "src": "/assets/brands/693755ed-MANTALL-BRAND.png",
+    "width": 370,
+    "height": 140,
+    "source": "https://liftcoindoperkasa.co.id/wp-content/uploads/2024/02/MANTALL-BRAND.png"
+  },
+  "lcm": {
+    "src": "/assets/brands/3a140a17-LCM-LOGO.png",
+    "width": 308,
+    "height": 140,
+    "source": "https://liftcoindoperkasa.co.id/wp-content/uploads/2025/03/LCM-LOGO.png"
+  }
+}

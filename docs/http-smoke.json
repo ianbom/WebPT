@@ -1,0 +1,400 @@
+{
+  "origin": "http://127.0.0.1:3121",
+  "routes": [
+    {
+      "route": "/",
+      "status": 200,
+      "title": "PT Liftco Indo Perkasa | Solusi Material Handling"
+    },
+    {
+      "route": "/artikel",
+      "status": 200,
+      "title": "Wawasan Industri | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/artikel/mengenal-jenis-forklift",
+      "status": 200,
+      "title": "Mengenal Jenis Forklift untuk Kebutuhan Industri | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/artikel/perbedaan-scissor-lift-dan-boom-lift",
+      "status": 200,
+      "title": "Perbedaan Scissor Lift dan Boom Lift | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/artikel/preventive-maintenance-forklift",
+      "status": 200,
+      "title": "Pentingnya Preventive Maintenance Forklift | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/kontak",
+      "status": 200,
+      "title": "Kontak | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/layanan",
+      "status": 200,
+      "title": "Layanan | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk",
+      "status": 200,
+      "title": "Produk | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/aerial-work-platfom-ac-model",
+      "status": 200,
+      "title": "Aerial Work Platfom AC Model | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/boom-lift-14m-26m-articulated",
+      "status": 200,
+      "title": "MANTALL Boom Lift 14m – 26m Articulated | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/boom-lift-20m-41m-telescopic",
+      "status": 200,
+      "title": "MANTALL Boom Lift 20m – 41m Telescopic | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/dingli-boom-lift-18m-28m-articulated",
+      "status": 200,
+      "title": "DINGLI Boom Lift 18m – 28m Articulated | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/dingli-boom-lift-18m-44m-telescopic",
+      "status": 200,
+      "title": "DINGLI Boom Lift 18m – 44m Telescopic | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/drum-gripper",
+      "status": 200,
+      "title": "Drum Gripper | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/forklift-diesel-heli-25-ton",
+      "status": 200,
+      "title": "Forklift Diesel HELI 2,5 Ton | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/forklift-electric-heli-15-ton-acid",
+      "status": 200,
+      "title": "Forklift Electric HELI 1,5 Ton, acid | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/forklift-electric-heli-15-ton-lithium",
+      "status": 200,
+      "title": "Forklift Electric HELI 1,5 Ton, Lithium | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/forklift-electric-heli-25-ton-acid",
+      "status": 200,
+      "title": "Forklift Electric HELI 2,5 Ton, acid | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/forklift-electric-heli-25-ton-lithium",
+      "status": 200,
+      "title": "Forklift Electric HELI 2,5 Ton, Lithium | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/forklift-electric-heli-3-ton-lithium",
+      "status": 200,
+      "title": "Forklift Electric HELI 3 Ton, Lithium | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/forklift-electric-heli-35-ton-acid",
+      "status": 200,
+      "title": "Forklift Electric HELI 3,5 Ton, acid | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/forklift-electric-heli-5-ton-acid",
+      "status": 200,
+      "title": "Forklift Electric HELI 5 Ton, acid | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/forklift-electric-heli-5-ton-lithium",
+      "status": 200,
+      "title": "Forklift Electric HELI 5 Ton, Lithium | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/forklift-heli-10-ton-front-double-tire",
+      "status": 200,
+      "title": "Forklift HELI 10 Ton, Front Double Tire | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/forklift-heli-15-ton-front-double-tire",
+      "status": 200,
+      "title": "Forklift HELI 15 Ton, Front Double Tire | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/forklift-heli-20-ton-big-forklift",
+      "status": 200,
+      "title": "Forklift HELI 20 Ton, Big Forklift | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/forklift-heli-25-ton-big-forklift",
+      "status": 200,
+      "title": "Forklift HELI 25 Ton, Big Forklift | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/forklift-heli-25-ton-gasoline-nissan-k25",
+      "status": 200,
+      "title": "Forklift HELI 2,5 Ton Gasoline , Nissan K25 | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/forklift-heli-3-ton-engine-isuzu",
+      "status": 200,
+      "title": "Forklift HELI 3 Ton, Engine Isuzu | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/forklift-heli-3-ton-engine-mitsubishi",
+      "status": 200,
+      "title": "Forklift HELI 3 Ton, Engine Mitsubishi | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/forklift-heli-3-ton-gasoline-nissan-k25",
+      "status": 200,
+      "title": "Forklift HELI 3 Ton, Gasoline Nissan K25 | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/forklift-heli-30-ton-big-forklift",
+      "status": 200,
+      "title": "Forklift HELI 30 Ton, Big Forklift | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/forklift-heli-32-ton-big-forklift",
+      "status": 200,
+      "title": "Forklift HELI 32 Ton, Big Forklift | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/forklift-heli-35-ton-big-forklift",
+      "status": 200,
+      "title": "Forklift HELI 35 Ton, Big Forklift | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/forklift-heli-35-ton-engine-isuzu",
+      "status": 200,
+      "title": "Forklift HELI 3,5 Ton, Engine Isuzu | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/forklift-heli-35-ton-engine-mitsubishi",
+      "status": 200,
+      "title": "Forklift HELI 3,5 Ton, Engine Mitsubishi | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/forklift-heli-35-ton-gasoline-nissan-k25",
+      "status": 200,
+      "title": "Forklift HELI 3,5 Ton, Gasoline Nissan K25 | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/forklift-heli-4-5-ton-front-single-tire",
+      "status": 200,
+      "title": "Forklift HELI 4-5 Ton, Front Single Tire | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/forklift-heli-4-5-ton-gasoline-front-single-tire",
+      "status": 200,
+      "title": "Forklift HELI 4-5 Ton, Gasoline Front Single Tire | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/forklift-heli-40-ton-big-forklift",
+      "status": 200,
+      "title": "Forklift HELI 40 Ton, Big Forklift | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/forklift-heli-46-ton-big-forklift",
+      "status": 200,
+      "title": "Forklift HELI 46 Ton, Big Forklift | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/forklift-heli-5-ton-front-double-tire",
+      "status": 200,
+      "title": "Forklift 5 Ton HELI, Front Double Tire | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/forklift-heli-6-ton-front-double-tire",
+      "status": 200,
+      "title": "Forklift HELI 6 Ton, Front Double Tire | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/forklift-heli-7-ton-front-double-tire",
+      "status": 200,
+      "title": "Forklift HELI 7 Ton, Front Double Tire | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/hand-pallet",
+      "status": 200,
+      "title": "Hand Pallet | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/harga-forklift-3-ton-acid",
+      "status": 200,
+      "title": "Forklift Electric HELI 3 Ton, acid | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/heli-ms1012a-scissor-lift",
+      "status": 200,
+      "title": "HELI MS1012-A Electric Self-Propelled Scissor Lift | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/heli-ms1212a-scissor-lift",
+      "status": 200,
+      "title": "HELI MS1212-A Electric Self-Propelled Scissor Lift | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/heli-ms1413a-scissor-lift",
+      "status": 200,
+      "title": "HELI MS1413-A Electric Self-Propelled Scissor Lift | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/heli-skid-steer-loader",
+      "status": 200,
+      "title": "HELI Multi-function Skid Steer Loader | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/heli-wheel-loader",
+      "status": 200,
+      "title": "HELI Wheel Loader | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/lcm-mini-excavator-ex60",
+      "status": 200,
+      "title": "LCM Mini Excavator / Crawler Excavator EX60 | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/lcm-scissor-lift-ze10n",
+      "status": 200,
+      "title": "LCM Scissor Lift ZE10N – 10 Meter | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/lcm-scissor-lift-ze10w",
+      "status": 200,
+      "title": "LCM Scissor Lift ZE10W – 10 Meter | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/lcm-scissor-lift-ze12w",
+      "status": 200,
+      "title": "LCM Scissor Lift ZE12W – 12 Meter | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/lcm-scissor-lift-ze14w",
+      "status": 200,
+      "title": "LCM Scissor Lift ZE14W – 14 Meter | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/lcm-scissor-lift-ze16w",
+      "status": 200,
+      "title": "LCM Scissor Lift ZE16W – 16 Meter | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/lcm-scissor-lift-ze80n",
+      "status": 200,
+      "title": "LCM Scissor Lift ZE80N – 8 Meter | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/lcm-scissor-lift-ze80w",
+      "status": 200,
+      "title": "LCM Scissor Lift ZE80W – 8 Meter | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/lcm-wheel-loader-910-1m3",
+      "status": 200,
+      "title": "LCM Wheel Loader 910 1m3 | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/lcm-wheel-loader-917-17m3",
+      "status": 200,
+      "title": "LCM Wheel Loader 917 1.7m3 | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/lcm-wheel-loader-930-3m3",
+      "status": 200,
+      "title": "LCM Wheel Loader 930 3m3 | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/lift-table",
+      "status": 200,
+      "title": "Lift Table | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/pallet-mover-kapasitas-15-ton-superman",
+      "status": 200,
+      "title": "Pallet Mover Kapasitas 1,5 Ton “Superman” | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/reach-stacker",
+      "status": 200,
+      "title": "Reach Stacker | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/reach-truck-seat-on-type-16-ton-acid",
+      "status": 200,
+      "title": "Reach Truck Seat On Type 1.6 Ton, acid | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/reach-truck-stand-on-type-15-ton-acid",
+      "status": 200,
+      "title": "Reach Truck Stand On Type 1,5 Ton, acid | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/scissor-lift-10-meter",
+      "status": 200,
+      "title": "Scissor Lift 10 Meter | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/scissor-lift-12-meter",
+      "status": 200,
+      "title": "Scissor Lift 12 Meter | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/scissor-lift-14-meter",
+      "status": 200,
+      "title": "Scissor Lift 14 Meter | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/scissor-lift-16-meter",
+      "status": 200,
+      "title": "Scissor Lift 16 Meter | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/scissor-lift-8-meter",
+      "status": 200,
+      "title": "ScissorLift 8 Meter | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/stacker-kapasitas-12-ton-narrow",
+      "status": 200,
+      "title": "Stacker Kapasitas 1,2 Ton Narrow | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/stacker-manual",
+      "status": 200,
+      "title": "Stacker Manual | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/stacker-reach-cqdm15-810",
+      "status": 200,
+      "title": "Stacker Reach CQDM15-810 | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/produk/stacker-semi-15-ton-35-m",
+      "status": 200,
+      "title": "Stacker Semi 1.5 Ton , 3,5 m | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/rental",
+      "status": 200,
+      "title": "Rental Equipment | PT Liftco Indo Perkasa"
+    },
+    {
+      "route": "/tentang-kami",
+      "status": 200,
+      "title": "Tentang Kami | PT Liftco Indo Perkasa"
+    }
+  ],
+  "routeCount": 78,
+  "imageCount": 80,
+  "internalLinkCount": 66,
+  "invalidRoutes": "3 correctly returned 404",
+  "metadataAssets": "robots, sitemap, Open Graph image and icon returned 200"
+}
